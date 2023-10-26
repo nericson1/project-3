@@ -1,4 +1,6 @@
 # Project 3 - California Rainfall vs. Wildfire Analysis
+
+## Collaborators
 - Timothy Coleman
 - Natalie Ericson
 - Ralph Gaston
